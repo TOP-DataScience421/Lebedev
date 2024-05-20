@@ -83,6 +83,6 @@ def convert_to_transform_base(number: str, base: int) -> str:
 #>>> int_base('ff00', 16, 2)
 #'1111111100000000'
 #>>> int_base('1101010', 2, 30)
-'3G'
+#'3G'
 #>>> int_base('V456GHJ', 32, 14)
 #'18913B8C39'
